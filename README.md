@@ -6,10 +6,10 @@ The purpose of this challenge is to create a summary DataFrame of the PyBer ride
 
 ## Resources
 
--city_data.csv
--ride_data.csv
--Python 3.8.8
--Jupyter Notebook
+- city_data.csv
+- ride_data.csv
+- Python 3.8.8
+- Jupyter Notebook
 
 ## Results
 
